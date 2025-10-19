@@ -1,4 +1,4 @@
-iimport { strictFormat } from '../utils/text.js';
+import { strictFormat } from '../utils/text.js';
 import { getKey, hasKey } from '../utils/keys.js';
 
 export class Ollama {

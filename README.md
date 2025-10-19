@@ -6,6 +6,7 @@ Crafting minds for Minecraft with LLMs and [Mineflayer!](https://prismarinejs.gi
 
 
 > [!Caution]
+The defult gptoss for cloud models is not good and dose need fine tunning.
 Do not connect this bot to public servers with coding enabled. This project allows an LLM to write/execute code on your computer. The code is sandboxed, but still vulnerable to injection attacks. Code writing is disabled by default, you can enable it by setting `allow_insecure_coding` to `true` in `settings.js`. Ye be warned.
 
 ## Requirements

@@ -1,7 +1,9 @@
 {
+  "name": "GPT-OSS120B",
+
   "model": {
     "api": "ollama",
-    "model": "gpt-oss:120b",
+    "model": "gpt-oss:120b-cloud",
     "url": "https://ollama.com",
     "params": {
       "stream": false,
