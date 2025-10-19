@@ -1,0 +1,16 @@
+{
+  "model": {
+    "api": "ollama",
+    "model": "gpt-oss:120b",
+    "url": "https://ollama.com",
+    "params": {
+      "stream": false,
+      "temperature": 0.7
+    }
+  },
+  "embedding": {
+    "api": "ollama",
+    "model": "embeddinggemma",
+    "url": "https://ollama.com"
+  }
+}
